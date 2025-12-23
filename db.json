@@ -1,0 +1,65 @@
+{
+  "records": [
+    {
+      "id": "0.014557268493256448",
+      "content": "高蛋白",
+      "calories": "100",
+      "protein": "15",
+      "carbohydrate": "4",
+      "fat": "4",
+      "sodium": "0",
+      "from": "darren8888"
+    },
+    {
+      "id": "0.755750374564037",
+      "content": "茶葉蛋",
+      "calories": "140",
+      "protein": "7",
+      "carbohydrate": "0",
+      "fat": "5",
+      "sodium": "0",
+      "from": "darren8888"
+    },
+    {
+      "id": "0.755750234564037",
+      "content": "火鍋",
+      "calories": "680",
+      "protein": "40",
+      "carbohydrate": "40",
+      "fat": "40",
+      "sodium": "0",
+      "from": "winni0214"
+    },
+    {
+      "id": "0.8250413005147537",
+      "content": "餐盒",
+      "calories": "606",
+      "protein": "40",
+      "carbohydrate": "90",
+      "fat": "10",
+      "sodium": "1200",
+      "from": "darren8888"
+    },
+    {
+      "id": "0.6432221410794756",
+      "content": "123",
+      "calories": "0",
+      "protein": "0",
+      "carbohydrate": "0",
+      "fat": "0",
+      "sodium": "0",
+      "from": "123"
+    }
+  ],
+  "users": [
+    {
+      "id": "darren8888"
+    },
+    {
+      "id": "winni0214"
+    },
+    {
+      "id": "123"
+    }
+  ]
+}
